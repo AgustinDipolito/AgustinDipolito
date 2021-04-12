@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Agustin
-- 👀 I’m interested in  el desarrollo tanto de videojuegos como de aplicaciones moviles
-- 🌱 I’m currently learning  Flutter  y  Unreal Engine  hace un  tiempo
-- 💞️ I’m looking to collaborate on  nuevos startups y generar un buen equipo de trabajo con desarrolladores con  los mismos sueños
-- 📫  Puedes escribirme en @iAgusDipo via Twitter 
+Hi, I'm agustin, an Argentine programmer
+👀 I am interested in the development of videogames and mobile applications
+🌱 I am currently learning Flutter and Unreal Engine for a while
+💞️ I am looking to collaborate in new startups and generate a good team with developers with the same dreams
+📫 You can write to me at @iAgusDipo via Twitter
 
 <!---
 YisusGo/YisusGo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
