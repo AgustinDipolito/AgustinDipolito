@@ -1,4 +1,4 @@
-.Hi, I'm agustin, an Argentine programmer.
+Hi, I am Agustin, an Argentine programmer
 
 👀 I am interested in the development of videogames and mobile applications.
 
